@@ -1,11 +1,9 @@
 """This module run functions to calculate numbers."""
 
 
-
 def function_one(num_one: int, num_two: int) -> int:
     """This function takes two numbers and returns their product."""
     return num_one * num_two
-
 
 
 def function_two(num_one, num_two):
