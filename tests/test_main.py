@@ -1,6 +1,7 @@
 from main import *
 import unittest
 
+
 class TestMain(unittest.TestCase):
     def test_function_one(self):
         self.assertEqual(function_one(2, 3), 6)
