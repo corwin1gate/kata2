@@ -4,8 +4,10 @@ def function_one(num_one: int, num_two: int) -> int:
     """
     return num_one * num_two
 
+
 def function_two(num_one, num_two):
-    return num_one+num_two
+    return num_one + num_two
+
 
 def function_three(num_one: int, num_two: int) -> int:
     """This function generates the sum of two integers.
